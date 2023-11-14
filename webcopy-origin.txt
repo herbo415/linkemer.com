@@ -1,0 +1,544 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Downloaded Web Sites\www.blammo.eu\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/gh/studio-freight/lenis@0.2.28/bundled/lenis.js
+File Name: C:\Downloaded Web Sites\www.blammo.eu\gh\studio-freight\lenis@0.2.28\bundled\lenis.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/@finsweet/attributes-inputactive@1/inputactive.js
+File Name: C:\Downloaded Web Sites\www.blammo.eu\npm\@finsweet\attributes-inputactive@1\inputactive.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js
+File Name: C:\Downloaded Web Sites\www.blammo.eu\ajax\libs\animejs\2.0.2\anime.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.2/TweenMax.min.js
+File Name: C:\Downloaded Web Sites\www.blammo.eu\ajax\libs\gsap\2.0.2\TweenMax.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/CustomEase.min.js
+File Name: C:\Downloaded Web Sites\www.blammo.eu\ajax\libs\gsap\3.10.4\CustomEase.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js
+File Name: C:\Downloaded Web Sites\www.blammo.eu\ajax\libs\gsap\3.10.4\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/gsap.min.js
+File Name: C:\Downloaded Web Sites\www.blammo.eu\ajax\libs\gsap\3.8.0\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/ScrollTrigger.min.js
+File Name: C:\Downloaded Web Sites\www.blammo.eu\ajax\libs\gsap\3.8.0\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.12/css/intlTelInput.min.css
+File Name: C:\Downloaded Web Sites\www.blammo.eu\ajax\libs\intl-tel-input\17.0.12\css\intlTelInput.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.12/img/flags.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\ajax\libs\intl-tel-input\17.0.12\img\flags.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.12/img/flags@2x.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\ajax\libs\intl-tel-input\17.0.12\img\flags@2x.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.12/js/intlTelInput.min.js
+File Name: C:\Downloaded Web Sites\www.blammo.eu\ajax\libs\intl-tel-input\17.0.12\js\intlTelInput.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.12/js/utils.min.js
+File Name: C:\Downloaded Web Sites\www.blammo.eu\ajax\libs\intl-tel-input\17.0.12\js\utils.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/protonet-jquery.inview/1.1.2/jquery.inview.min.js
+File Name: C:\Downloaded Web Sites\www.blammo.eu\ajax\libs\protonet-jquery.inview\1.1.2\jquery.inview.min.js
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=64590736881aae7629fd27c9
+File Name: C:\Downloaded Web Sites\www.blammo.eu\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/static/custom-checkbox-checkmark.589d534424.svg
+File Name: C:\Downloaded Web Sites\www.blammo.eu\static\custom-checkbox-checkmark.589d534424.svg
+Content Type: image/svg+xml
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/static/youtube-placeholder.2b05e7d68d.svg
+File Name: C:\Downloaded Web Sites\www.blammo.eu\static\youtube-placeholder.2b05e7d68d.svg
+Content Type: image/svg+xml
+
+Uri: https://unpkg.com/split-type@0.3.4/umd/index.min.js
+File Name: C:\Downloaded Web Sites\www.blammo.eu\split-type@0.3.4\umd\index.min.js
+Content Type: application/javascript
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645a5411a7ab2a91d32f9edd_Group 92 1.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645a5411a7ab2a91d32f9edd_Group 92 1.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645a54bd20ff8a738fa3e09f_Group 69.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645a54bd20ff8a738fa3e09f_Group 69.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645a55562abc012b202cb342_Gilroy-Regular.ttf
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645a55562abc012b202cb342_Gilroy-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645a55562c40320475a6e050_Gilroy-Medium.ttf
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645a55562c40320475a6e050_Gilroy-Medium.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645a55563475e36c83d41a03_Gilroy-Semibold.ttf
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645a55563475e36c83d41a03_Gilroy-Semibold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645a556e221ce2590e3574f7_DrukCyr-Bold.ttf
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645a556e221ce2590e3574f7_DrukCyr-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645a556ee404af3b7b73f3bc_DrukCyr-Medium.ttf
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645a556ee404af3b7b73f3bc_DrukCyr-Medium.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645a6334d281dc5813d91bd6_Rectangle 50.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645a6334d281dc5813d91bd6_Rectangle 50.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645b8960e5f0ee0762c36fb8_Gilroy-Bold.ttf
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645b8960e5f0ee0762c36fb8_Gilroy-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645b8c1a1eae0c31e8b0af76_Group 105.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645b8c1a1eae0c31e8b0af76_Group 105.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645ba02dfa6ce93d6bba50c2_IMG_4806 (1) 1-min-p-500.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645ba02dfa6ce93d6bba50c2_IMG_4806 (1) 1-min-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645ba02dfa6ce93d6bba50c2_IMG_4806 (1) 1-min-p-800.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645ba02dfa6ce93d6bba50c2_IMG_4806 (1) 1-min-p-800.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645ba02dfa6ce93d6bba50c2_IMG_4806 (1) 1-min.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645ba02dfa6ce93d6bba50c2_IMG_4806 (1) 1-min.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645ba1edab53020f161f3480_IMG_6445 2-min-p-500.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645ba1edab53020f161f3480_IMG_6445 2-min-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645ba1edab53020f161f3480_IMG_6445 2-min-p-800.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645ba1edab53020f161f3480_IMG_6445 2-min-p-800.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645ba1edab53020f161f3480_IMG_6445 2-min.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645ba1edab53020f161f3480_IMG_6445 2-min.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645f55b4f5957fd174337b86_plane_final-min-p-500.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645f55b4f5957fd174337b86_plane_final-min-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645f55b4f5957fd174337b86_plane_final-min-p-800.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645f55b4f5957fd174337b86_plane_final-min-p-800.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645f55b4f5957fd174337b86_plane_final-min.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645f55b4f5957fd174337b86_plane_final-min.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645f5ec4159a448158d0cbed_IMG_7394 1-p-500.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645f5ec4159a448158d0cbed_IMG_7394 1-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645f5ec4159a448158d0cbed_IMG_7394 1-p-800.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645f5ec4159a448158d0cbed_IMG_7394 1-p-800.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645f5ec4159a448158d0cbed_IMG_7394 1.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645f5ec4159a448158d0cbed_IMG_7394 1.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645f5f24533dc6b541890e7e_Название (белый цвет) ПНГ 1.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645f5f24533dc6b541890e7e_Название (белый цвет) ПНГ 1.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645f5f50533dc6b541892a17_logo caly new 1-p-500.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645f5f50533dc6b541892a17_logo caly new 1-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645f5f50533dc6b541892a17_logo caly new 1.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645f5f50533dc6b541892a17_logo caly new 1.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645f5fbb7dfa8db5babe514f_foggy white 1.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645f5fbb7dfa8db5babe514f_foggy white 1.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645f5fd54f8e6541f3418c19_IMG_7399-p-500.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645f5fd54f8e6541f3418c19_IMG_7399-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645f5fd54f8e6541f3418c19_IMG_7399.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645f5fd54f8e6541f3418c19_IMG_7399.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645f60093b5356316894b6a5_IMG_7398.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645f60093b5356316894b6a5_IMG_7398.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645f7f669676cd07ed6a635a_IMG_8006.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645f7f669676cd07ed6a635a_IMG_8006.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645f80b70429258bf1ecd52c_Vector 91.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645f80b70429258bf1ecd52c_Vector 91.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645f823702edee1b70780a7e_Group 113.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645f823702edee1b70780a7e_Group 113.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645f88b1885c34030d829388_IMG_8005 1.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645f88b1885c34030d829388_IMG_8005 1.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/645f987fcd6a0badffbc6f32_Group 77.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\645f987fcd6a0badffbc6f32_Group 77.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/64623dcac68c9f9ca1f97978_Group 114-min-2.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\64623dcac68c9f9ca1f97978_Group 114-min-2.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/6462533f10595967ba1f00f8_IMG_8120 1.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\6462533f10595967ba1f00f8_IMG_8120 1.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/64637864845fa3f03b3adebc_IMAGE 2023-05-12 17_57_00 4.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\64637864845fa3f03b3adebc_IMAGE 2023-05-12 17_57_00 4.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/6463786f8af413ee37b8f25c_IMG_8121 3.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\6463786f8af413ee37b8f25c_IMG_8121 3.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/6463793e084d742316c38f89_IMAGE 2023-05-12 18_12_59 3.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\6463793e084d742316c38f89_IMAGE 2023-05-12 18_12_59 3.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/64637c5fce055836e6cf5a48_IMG_8122 1.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\64637c5fce055836e6cf5a48_IMG_8122 1.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646385e8a5c9bd3f481fd777_Отзыв бламмо Юр-poster-00001.jpg
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646385e8a5c9bd3f481fd777_Отзыв бламмо Юр-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646385e8a5c9bd3f481fd777_Отзыв бламмо Юр-transcode.mp4
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646385e8a5c9bd3f481fd777_Отзыв бламмо Юр-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646385e8a5c9bd3f481fd777_Отзыв бламмо Юр-transcode.webm
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646385e8a5c9bd3f481fd777_Отзыв бламмо Юр-transcode.webm
+Content Type: video/webm
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/6463861568f1983d13b05b12_Отзыв бламмо суши-poster-00001.jpg
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\6463861568f1983d13b05b12_Отзыв бламмо суши-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/6463861568f1983d13b05b12_Отзыв бламмо суши-transcode.mp4
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\6463861568f1983d13b05b12_Отзыв бламмо суши-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/6463861568f1983d13b05b12_Отзыв бламмо суши-transcode.webm
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\6463861568f1983d13b05b12_Отзыв бламмо суши-transcode.webm
+Content Type: video/webm
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/64638624845fa3f03b4a253a_Отзыв-бламмо-последн-poster-00001.jpg
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\64638624845fa3f03b4a253a_Отзыв-бламмо-последн-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/64638624845fa3f03b4a253a_Отзыв-бламмо-последн-transcode.mp4
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\64638624845fa3f03b4a253a_Отзыв-бламмо-последн-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/64638624845fa3f03b4a253a_Отзыв-бламмо-последн-transcode.webm
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\64638624845fa3f03b4a253a_Отзыв-бламмо-последн-transcode.webm
+Content Type: video/webm
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646387a1084d742316d40b46_Mask group-min-2-2-p-1080.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646387a1084d742316d40b46_Mask group-min-2-2-p-1080.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646387a1084d742316d40b46_Mask group-min-2-2-p-500.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646387a1084d742316d40b46_Mask group-min-2-2-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646387a1084d742316d40b46_Mask group-min-2-2-p-800.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646387a1084d742316d40b46_Mask group-min-2-2-p-800.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646387a1084d742316d40b46_Mask group-min-2-2.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646387a1084d742316d40b46_Mask group-min-2-2.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/6463d0d059e585736e85df51_Vector 96.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\6463d0d059e585736e85df51_Vector 96.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/64647d335ae7c51a4385bfde_Group 116.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\64647d335ae7c51a4385bfde_Group 116.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/64647d80f940eff81384e888_Frame 38.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\64647d80f940eff81384e888_Frame 38.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/64648058dd60f85227d3612d_Group 117-min-p-1080.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\64648058dd60f85227d3612d_Group 117-min-p-1080.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/64648058dd60f85227d3612d_Group 117-min-p-500.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\64648058dd60f85227d3612d_Group 117-min-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/64648058dd60f85227d3612d_Group 117-min-p-800.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\64648058dd60f85227d3612d_Group 117-min-p-800.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/64648058dd60f85227d3612d_Group 117-min.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\64648058dd60f85227d3612d_Group 117-min.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/6464857bba2ea7c68217fdcd_Group 115.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\6464857bba2ea7c68217fdcd_Group 115.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/6464aaaddd60f8522703412b_Group 118-min 1.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\6464aaaddd60f8522703412b_Group 118-min 1.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/6464e82028245b206da0ac86_1фав.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\6464e82028245b206da0ac86_1фав.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/6464e823289ba150583b1e7d_2фав.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\6464e823289ba150583b1e7d_2фав.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/6464ee2f9a6fc7fcdb6570fa_FILIP REKLAMA 20_4 (1)-2-transcode.mp4
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\6464ee2f9a6fc7fcdb6570fa_FILIP REKLAMA 20_4 (1)-2-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/6464ee2f9a6fc7fcdb6570fa_FILIP REKLAMA 20_4 (1)-2-transcode.webm
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\6464ee2f9a6fc7fcdb6570fa_FILIP REKLAMA 20_4 (1)-2-transcode.webm
+Content Type: video/webm
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/64660dd01a3aa128509e5986_Group 119.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\64660dd01a3aa128509e5986_Group 119.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/64660e6d21b5e88d5974dafa_Group 107.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\64660e6d21b5e88d5974dafa_Group 107.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/64663506484ba336da843d13_Group 120.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\64663506484ba336da843d13_Group 120.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/6466390b4bdd02984e04dd9c_IMAGE 2023-05-12 17_57_00 3-p-500.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\6466390b4bdd02984e04dd9c_IMAGE 2023-05-12 17_57_00 3-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/6466390b4bdd02984e04dd9c_IMAGE 2023-05-12 17_57_00 3.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\6466390b4bdd02984e04dd9c_IMAGE 2023-05-12 17_57_00 3.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/64663c6483a7c8a8a8b98891_IMAGE 2023-05-12 18_12_59 2-p-500.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\64663c6483a7c8a8a8b98891_IMAGE 2023-05-12 18_12_59 2-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/64663c6483a7c8a8a8b98891_IMAGE 2023-05-12 18_12_59 2.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\64663c6483a7c8a8a8b98891_IMAGE 2023-05-12 18_12_59 2.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/6467739f1d41344dd430ff6a_Group 76.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\6467739f1d41344dd430ff6a_Group 76.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/64677400d8c2c33c469a4d4d_Group 81.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\64677400d8c2c33c469a4d4d_Group 81.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/64678b998c0f6eaf6ce6f8b2_Сетка моб 1 блок.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\64678b998c0f6eaf6ce6f8b2_Сетка моб 1 блок.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/6467cdd3f89d8c8ef0c681d4_Отзыв бламмо нью-poster-00001.jpg
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\6467cdd3f89d8c8ef0c681d4_Отзыв бламмо нью-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/6467cdd3f89d8c8ef0c681d4_Отзыв бламмо нью-transcode.mp4
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\6467cdd3f89d8c8ef0c681d4_Отзыв бламмо нью-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/6467cdd3f89d8c8ef0c681d4_Отзыв бламмо нью-transcode.webm
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\6467cdd3f89d8c8ef0c681d4_Отзыв бламмо нью-transcode.webm
+Content Type: video/webm
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/64690f5c0c1ffac20685e33a_Сетка моб.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\64690f5c0c1ffac20685e33a_Сетка моб.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bcc68e3df57728f071604_IMG_5169 1.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bcc68e3df57728f071604_IMG_5169 1.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bccb1485b17ee471014ef_Sushi Dream Red 1.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bccb1485b17ee471014ef_Sushi Dream Red 1.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bccd27bd553af9d40ba4a_CC815B25-BC23-4885-8C9A-269C91D52E28-removebg-preview 1-p-500.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bccd27bd553af9d40ba4a_CC815B25-BC23-4885-8C9A-269C91D52E28-removebg-preview 1-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bccd27bd553af9d40ba4a_CC815B25-BC23-4885-8C9A-269C91D52E28-removebg-preview 1.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bccd27bd553af9d40ba4a_CC815B25-BC23-4885-8C9A-269C91D52E28-removebg-preview 1.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bccf7f653548f6783f287_Group 117.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bccf7f653548f6783f287_Group 117.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bcd0bedf695a4635066dc_IMG_7399 2-p-500.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bcd0bedf695a4635066dc_IMG_7399 2-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bcd0bedf695a4635066dc_IMG_7399 2.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bcd0bedf695a4635066dc_IMG_7399 2.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bcd45f653548f67844562_Mask group-4-p-500.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bcd45f653548f67844562_Mask group-4-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bcd45f653548f67844562_Mask group-4-p-800.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bcd45f653548f67844562_Mask group-4-p-800.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bcd45f653548f67844562_Mask group-4.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bcd45f653548f67844562_Mask group-4.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bcd68b8339065d0d27fcb_Mask group-1.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bcd68b8339065d0d27fcb_Mask group-1.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bcd89b736b9508399acd1_Group 118-p-500.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bcd89b736b9508399acd1_Group 118-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bcd89b736b9508399acd1_Group 118.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bcd89b736b9508399acd1_Group 118.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bcda79accef10273933a3_Mask group-2-p-500.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bcda79accef10273933a3_Mask group-2-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bcda79accef10273933a3_Mask group-2-p-800.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bcda79accef10273933a3_Mask group-2-p-800.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bcda79accef10273933a3_Mask group-2.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bcda79accef10273933a3_Mask group-2.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bcdc6ced1555ba22aca40_Mask group-p-500.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bcdc6ced1555ba22aca40_Mask group-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bcdc6ced1555ba22aca40_Mask group.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bcdc6ced1555ba22aca40_Mask group.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bcdf63ebe3c6d68be6cdb_Mask group-3-p-500.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bcdf63ebe3c6d68be6cdb_Mask group-3-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bcdf63ebe3c6d68be6cdb_Mask group-3-p-800.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bcdf63ebe3c6d68be6cdb_Mask group-3-p-800.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bcdf63ebe3c6d68be6cdb_Mask group-3.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bcdf63ebe3c6d68be6cdb_Mask group-3.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bd47c3212642b3d5be3ac_IMG_8265 1-p-1080.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bd47c3212642b3d5be3ac_IMG_8265 1-p-1080.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bd47c3212642b3d5be3ac_IMG_8265 1-p-500.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bd47c3212642b3d5be3ac_IMG_8265 1-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bd47c3212642b3d5be3ac_IMG_8265 1-p-800.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bd47c3212642b3d5be3ac_IMG_8265 1-p-800.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bd47c3212642b3d5be3ac_IMG_8265 1.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bd47c3212642b3d5be3ac_IMG_8265 1.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bd4a6f9ec990072767f9b_photo_2023-05-22 16.25 1.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bd4a6f9ec990072767f9b_photo_2023-05-22 16.25 1.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bd54dd08d440428c373ce_photo_2023-05-22 16.29 1.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bd54dd08d440428c373ce_photo_2023-05-22 16.29 1.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bd5b93d1d2d8f54faf064_IMG_8265 1-p-500.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bd5b93d1d2d8f54faf064_IMG_8265 1-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646bd5b93d1d2d8f54faf064_IMG_8265 1.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646bd5b93d1d2d8f54faf064_IMG_8265 1.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646c8b8285a2b93646fe7a87_IMG_8264 1-p-1080.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646c8b8285a2b93646fe7a87_IMG_8264 1-p-1080.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646c8b8285a2b93646fe7a87_IMG_8264 1-p-500.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646c8b8285a2b93646fe7a87_IMG_8264 1-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646c8b8285a2b93646fe7a87_IMG_8264 1-p-800.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646c8b8285a2b93646fe7a87_IMG_8264 1-p-800.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/646c8b8285a2b93646fe7a87_IMG_8264 1.png
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\646c8b8285a2b93646fe7a87_IMG_8264 1.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/css/blammo-046c8c.webflow.2d7371eeb.css
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\css\blammo-046c8c.webflow.2d7371eeb.css
+Content Type: text/css
+
+Uri: https://uploads-ssl.webflow.com/64590736881aae7629fd27c9/js/webflow.3ef0febbb.js
+File Name: C:\Downloaded Web Sites\www.blammo.eu\64590736881aae7629fd27c9\js\webflow.3ef0febbb.js
+Content Type: text/javascript
+
+Uri: https://www.blammo.eu/
+File Name: C:\Downloaded Web Sites\www.blammo.eu\index.htm
+Content Type: text/html
+
+Uri: https://www.blammo.eu/politika-konfidencialnosti
+File Name: C:\Downloaded Web Sites\www.blammo.eu\politika-konfidencialnosti.html
+Content Type: text/html
+
